@@ -1,3 +1,5 @@
+//https://www.codingninjas.com/studio/problem-of-the-day/moderate
+
 import java.util.* ;
 import java.io.*; 
 public class Solution
